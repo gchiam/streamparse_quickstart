@@ -3,6 +3,7 @@ Docker: [streamparse](https://github.com/Parsely/streamparse) quickstart example
 
 Docker Hub: https://hub.docker.com/r/gchiam/streamparse_quickstart/
 
+[![Build Status](https://travis-ci.org/gchiam/streamparse_quickstart.svg?branch=master)](https://travis-ci.org/gchiam/streamparse_quickstart)
 
 ## Building Docker image
 ```
