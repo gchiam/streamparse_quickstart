@@ -7,4 +7,4 @@ before_install:
   - docker build --rm=true -t gchiam/streamparse_quickstart .
 
 script:
-    - docker run gchiam/streamparse_quickstart --entrypoint "sparse" gchiam/streamparse_quickstart -h
+    - docker run --entrypoint "sparse" gchiam/streamparse_quickstart -h
