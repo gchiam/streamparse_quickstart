@@ -1,5 +1,5 @@
 # streamparse_quickstart
-Docker: streamparse quickstart example
+Docker: [streamparse](https://github.com/Parsely/streamparse) quickstart example
 
 ## Building Docker image
 ```
